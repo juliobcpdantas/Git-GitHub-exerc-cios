@@ -28,3 +28,4 @@ ReadMe
 
 //teste 3 de git fetch. usando apenas 1 etapa de comando: "git fetch origin main - git merge origin/main"
 
+//teste 3 não funcionou, apenas consegui com o teste 2 por 2 etapas de comando
