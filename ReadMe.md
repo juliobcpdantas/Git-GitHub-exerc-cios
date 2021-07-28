@@ -20,7 +20,7 @@ ReadMe
 
 //teste de git pull
 
-//teste de git fetch
+//teste de git fetch não funcionou
 
 
 
