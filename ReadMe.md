@@ -16,4 +16,6 @@ ReadMe
 
 //git commit será realizado com esta linha de alteraçao em seguida, realização de teste de merge remoto, que em teoria excluirá o branch teste-01 do repositorio remoto
  
+//contrariando minha teoria, o git merge local e conseguinte o git push de ambos os branchs não removem o branch de teste-01 automaticamente.
+
 
