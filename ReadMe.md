@@ -22,5 +22,9 @@ ReadMe
 
 //teste de git fetch não funcionou
 
-// teste 2 de gir fetch
+// teste 2 de git fetch
+
+// teste 2 funcionou. porem em 2 etapas. apontamento por "git fetch origin main" e depois "git merge origin/main"
+
+//teste 3 de git fetch. usando apenas 1 etapa de comando: "git fetch origin main - git merge origin/main"
 
