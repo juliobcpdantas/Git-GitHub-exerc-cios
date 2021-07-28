@@ -18,5 +18,9 @@ ReadMe
  
 //contrariando minha teoria, o git merge local e conseguinte o git push de ambos os branchs não removem o branch de teste-01 automaticamente.
 
-//teste de git fetch em main 
+//teste de git pull
+
+//teste de git fetch
+
+
 
